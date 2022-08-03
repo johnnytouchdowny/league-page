@@ -7,15 +7,12 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>A FEW RELEVANT NOTES at the top: 
-- Draft deadline this season is moved forward to 11/4 (same as NFL) 
-- With the added week to the NFL schedule, our post season play will begin Week 15 and conclude with the MONEY BOWL on Week 17. </p>
-
+  
 <p>What's Happening Gentlemen! </p>
 
 <p>Welcome back to MO MONEY. Both JC and I would like to welcome you to the premier fantasy football league on the East Coast of Florida. You're going to want to put on your BIG GIRL PANTIES for this league ladies! Everything goes, trades, smack (oh yes, we love the smack), nothing or no one is safe! You will be testing your skills against the elite. Ten teams made up of grit and steel battling for domination, respect, bragging rights and the coveted first place MO MONEY GRAND CHAMPION trophy to display proudly and cherish until the following season! 
 </p>
-<h4>KEEPER RULES: </h4>
+<h4>KEEPER RULES </h4>
 <ul>
 <li>The 2022 draft order will be set before you must declare your 4 keeper players. The cost to keep a player is the draft round in which the player was selected, plus 1 round. This means you can't keep both your first and second round choices from the previous year (because they both would require your round 1 pick). 
 </li>
